@@ -27,7 +27,4 @@ Windows:
 ```bash
 git clone https://github.com/saksham140023/College-Assignment.git
 
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
