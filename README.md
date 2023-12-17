@@ -1,10 +1,6 @@
 # Personal portfolio
 This project is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 #### Link to the website https://saksham140023.github.io/College-Assignment.github.io
-## Demo
-
-![Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
 ## Prerequisites
 
